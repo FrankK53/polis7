@@ -5,10 +5,10 @@ CONFIG_FILE='polis.conf'
 CONFIGFOLDER='/root/.poliscore'
 COIN_DAEMON='/usr/local/bin/polisd'
 COIN_CLI='/usr/local/bin/polis-cli'
-COIN_REPO='https://github.com/polispay/polis/releases/download/v1.4.6/poliscore-1.4.6-x86_64-linux-gnu.tar.gz'
+COIN_REPO='https://github.com/polispay/polis/releases/download/v1.4.7/poliscore-1.4.7-x86_64-linux-gnu.tar.gz'
 SENTINEL_REPO='https://github.com/polispay/sentinel'
 COIN_BLOCKS='https://github.com/zoldur/Polis/releases/download/v1.4.3/polisblocks.tgz'
-LATEST_VERSION=1040600
+LATEST_VERSION=1040700
 COIN_NAME='Polis'
 COIN_PORT=24126
 
